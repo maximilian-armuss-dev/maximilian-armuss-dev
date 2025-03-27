@@ -8,9 +8,9 @@
 
 I am a computer science master's student at TUM. I love to learn and build something new, productive, innovative and creative.
 
-**I am interested in Machine Learning, Cybersecurity, and VST Plugin Development**
+**I am interested in Machine Learning and Music Production - and basically everything that combines those two 🤩**
 - 🌱 I’m looking forward to collaborate on open source projects
-- 🤔 Currently thinking about learning Rust to be able to use this awesome ![VST3 backend](https://github.com/robbert-vdh/nih-plug)
+- 🤔 Currently thinking about learning Rust to be able to use this ![VST3 backend](https://github.com/robbert-vdh/nih-plug)
 - 🎵 I own a couple of synths (Arturia Minifreak, KORG Prologue 8, ...)
 
 If you want to collab, feel free to shoot me a message 😁
