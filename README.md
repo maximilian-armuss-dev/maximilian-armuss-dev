@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **maximilian-armuss-dev/maximilian-armuss-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DEDFF&width=435&lines=Hello+World!)](https://git.io/typing-svg)
