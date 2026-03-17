@@ -10,7 +10,7 @@ On here, I mainly showcase projects around **multi-agent systems**, **audio / DS
 ## Featured Projects 🚀
 
 ### 🧠 [Capability Gateways for Multi-Agent Systems](https://github.com/maximilian-armuss-dev/capability-gateway)
-My flagship research project on **multi-agent systems**.
+The flagship research project on **multi-agent systems**, conducted in a group-work NLP practical course at TUM.
 
 This repo explores how to reduce **context bloat** and improve **staged information exposure** for agents.  
 The core idea is a **Capability Gateway** that hides static tool/protocol complexity from the agent, so the agent can focus more on reasoning:
