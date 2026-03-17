@@ -22,6 +22,8 @@ It handles **MCP, A2A, and RAG**, while caller agents are only exposed to 3 deli
 - poster + paper
 - architecture work around agent/tool abstraction
 
+![Gateway-RAG Architecture](gateway-rag.png)
+
 ---
 
 ### 🎛️ [Prologue-FX](https://github.com/maximilian-armuss-dev/prologue-fx)
