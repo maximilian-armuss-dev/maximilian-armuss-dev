@@ -26,14 +26,7 @@ It handles **MCP, A2A, and RAG**, while caller agents are only exposed to 3 deli
 
 ---
 
-### 🎛️ [Prologue-FX](https://github.com/maximilian-armuss-dev/prologue-fx)
-A framework built on top of the **KORG logue SDK** to make custom effect development for my **KORG Prologue 8** much cleaner.
-
-Instead of writing the same boilerplate again and again, this project organizes the surrounding structure so I can focus on the actual **DSP logic**.
-
----
-
-### 🎼 [melformer](https://github.com/maximilian-armuss-dev/melformer)
+### 🎼 [Melformer](https://github.com/maximilian-armuss-dev/melformer)
 An experimental music generation project built around **VQ-VAE + Transformer** ideas.
 
 The main twist was a custom audio format I designed myself: instead of storing audio in the usual time-based way, it stores a fixed number of samples **per beat**.  
@@ -43,15 +36,14 @@ I also explored using **complex-valued representations** to incorporate both **a
 
 Maybe *slightly* ambitious, but exactly the kind of ML idea I enjoyed exploring.
 
+![Melformer](melformer.svg)
+
 ---
 
-### 🤖 [telegram2notion](https://github.com/maximilian-armuss-dev/telegram2notion)
-A personal AI workflow project that turns thoughts into structured knowledge.
+### 🎛️ [Prologue-FX](https://github.com/maximilian-armuss-dev/prologue-fx)
+A framework built on top of the **KORG logue SDK** to make custom effect development for my **KORG Prologue 8** much cleaner.
 
-Using **Telegram, speech transcription, LLM analysis, and Notion**, this system converts voice notes and text messages into organized entries like ideas, todos, and notes.
-
-This is a good example of stuff I like to build:
-**Actually useful in daily life.**
+Instead of writing the same boilerplate again and again, this project organizes the surrounding structure so I can focus on the actual **DSP logic**.
 
 ---
 
@@ -86,3 +78,13 @@ I’m currently **not showcasing the code publicly** because I want to improve t
 Here's a screenshot of me using it tho.
 
 ![Clarif-AI](clarif-ai.png)
+
+---
+
+### 🤖 [telegram2notion](https://github.com/maximilian-armuss-dev/telegram2notion)
+A personal AI workflow project that turns thoughts into structured knowledge.
+
+Using **Telegram, speech transcription, LLM analysis, and Notion**, this system converts voice notes and text messages into organized entries like ideas, todos, and notes.
+
+This is a good example of stuff I like to build:
+**Actually useful in daily life.**
