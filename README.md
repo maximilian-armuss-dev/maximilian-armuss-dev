@@ -13,7 +13,8 @@ On here, I mainly showcase projects around **multi-agent systems**, **audio / DS
 My flagship research project on **multi-agent systems**.
 
 This repo explores how to reduce **context bloat** and improve **staged information exposure** for agents.  
-The core idea is a **Capability Gateway** that hides static tool/protocol complexity from the agent, so the agent can focus more on reasoning.
+The core idea is a **Capability Gateway** that hides static tool/protocol complexity from the agent, so the agent can focus more on reasoning:
+It handles **MCP, A2A, and RAG**, while caller agents are only exposed to 3 deliberately thin MCP tools.
 
 **Includes**
 - research code
