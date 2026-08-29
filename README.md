@@ -26,7 +26,7 @@ It handles **MCP, A2A, and RAG**, while caller agents are only exposed to 3 deli
 
 ---
 
-### 🧩 [Frabble: A Spatial Reasoning Benchmark](https://github.com/maximilian-armuss-dev/multidimensional-scrabble-benchmark)
+### 🧩 [Frabble: A Spatial Reasoning Benchmark](https://github.com/maximilian-armuss-dev/frabble)
 Frabble is a research paper on **reasoning benchmarks for LLMs**. It addresses common problems with natural-language benchmarks, such as data contamination, memorization, saturation, and LLM-as-judge scoring.
 
 We turn Scrabble into a benchmark that uses **generated formal languages instead of natural-language words**. Every grammar, board, rack, and scoring setup is generated from a seed, so cases are reproducible but cannot be solved by memorizing a fixed dataset. Using only the rules in the prompt, the model must place the highest-scoring valid word it can find. The result is checked deterministically. More details are in the paper.
