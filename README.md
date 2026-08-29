@@ -5,7 +5,7 @@
 Computer Science Master’s student at TUM, building projects across **Agentic AI, ML, systems, and music tech**.
 
 I like clean abstractions, practical tools, and ideas that are a bit nerdy but genuinely useful.  
-On here, I mainly showcase projects around **multi-agent systems**, **audio / DSP**, and **personal AI tooling**.
+On here, I mainly showcase projects around **multi-agent systems**, **AI research**, and **audio / DSP**.
 
 ## Featured Projects 🚀
 
